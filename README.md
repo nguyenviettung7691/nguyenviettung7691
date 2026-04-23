@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguy%E1%BB%85n%20Vi%E1%BB%87t%20T%C3%B9ng&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Open-Source%20Enthusiast&descAlignY=55&descSize=18" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguy%E1%BB%85n%20Vi%E1%BB%87t%20T%C3%B9ng&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Full-Stack%20Engineer%20%7C%20IT%20Consultant%20%7C%20Cloud-Native%20Builder&descAlignY=55&descSize=18" alt="header" width="100%" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Hello+World!+%F0%9F%91%8B+I'm+Tung;Full-Stack+Developer+%F0%9F%9A%80;Building+things+that+matter+%F0%9F%8C%9F;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Hello+World!+%F0%9F%91%8B+I'm+Tung;Senior+Full-Stack+Engineer+%F0%9F%9A%80;10%2B+years+of+JavaScript-driven+UI;Cloud-Native+%7C+Vue.js+%7C+AWS+%7C+Azure;Building+things+that+matter+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,16 +12,25 @@
 
 ```yaml
 name: Nguyễn Việt Tùng (Tung Nguyen)
-location: Vietnam 🇻🇳
-role: Full-Stack Developer
-focus:
-  - Building scalable web applications
-  - Clean, maintainable code
-  - Open-source contributions
-currently_learning:
-  - Cloud architecture & DevOps
-  - AI/ML integration in web apps
-fun_fact: "I debug with coffee ☕ and ship with enthusiasm 🚀"
+location: Ho Chi Minh City, Vietnam 🇻🇳
+role: Senior Full-Stack Engineer & IT Consultant
+company: Hitachi Digital Services
+experience:
+  - 10+ years in JavaScript-driven UI
+  - 5+ years in full-stack & cloud-native delivery
+  - Strong Azure & DevOps background
+specializations:
+  - Vue.js architecture & modern front-end toolchains
+  - BFF patterns & secure authentication (JWT, FIDO)
+  - AWS & Azure cloud-native infrastructure
+  - ESG / Carbon Accounting & PropTech platforms
+currently_working_on:
+  - FUJIFILM IWpro — enterprise document workflow automation (AWS Lambda, SQS, SNS)
+  - LeafWise — AI-powered plant care app (Next.js, Firebase Studio, Genkit)
+languages:
+  - English: C2 Proficient (EF SET 79/100)
+  - Japanese: Basic
+fun_fact: "I believe the best code reads like a well-written story 📖"
 ```
 
 ---
@@ -31,14 +40,19 @@ fun_fact: "I debug with coffee ☕ and ship with enthusiasm 🚀"
 ### 🌐 Frontend
 <div align="center">
 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+  ![Pinia](https://img.shields.io/badge/Pinia-F7DF1E?style=for-the-badge&logo=vue.js&logoColor=black)
+  ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+  ![PrimeVue](https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black)
 
 </div>
 
@@ -46,25 +60,44 @@ fun_fact: "I debug with coffee ☕ and ship with enthusiasm 🚀"
 <div align="center">
 
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+</div>
+
+### 🔐 Auth & Architecture Patterns
+<div align="center">
+
+  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+  ![FIDO](https://img.shields.io/badge/FIDO%2FPasskeys-00A1E0?style=for-the-badge&logo=fido-alliance&logoColor=white)
+  ![BFF](https://img.shields.io/badge/BFF_Pattern-FF6C37?style=for-the-badge&logoColor=white)
+  ![Microservices](https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logoColor=white)
 
 </div>
 
 ### 🗄️ Databases & Cloud
 <div align="center">
 
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+### 🤖 AI-Assisted Development
+<div align="center">
+
+  ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+  ![Firebase Studio](https://img.shields.io/badge/Firebase_Studio-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -74,11 +107,82 @@ fun_fact: "I debug with coffee ☕ and ship with enthusiasm 🚀"
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
+---
+
+## 💼 Work Experience
+
+| Period | Role | Company |
+|---|---|---|
+| 01/2026 – Present | **Senior IT Consulting & Implementation** | Hitachi Digital Services |
+| 04/2023 – 12/2025 | Senior Software Engineer | Orient Software → Conexus (Norway) |
+| 09/2022 – 03/2023 | DevOps Engineer | Orient Software → Conexus (Norway) |
+| 05/2022 – 08/2022 | Senior Frontend Developer | Orient Software → Conexus (Norway) |
+| 09/2020 – 04/2022 | Lead Software Engineer | Orient Software → MOE Singapore |
+| 10/2019 – 09/2020 | Lead Software Engineer | Conexus → MOE Singapore |
+| 01/2018 – 10/2019 | Frontend Developer | Conexus |
+| 10/2014 – 01/2018 | Frontend Developer | Orient Software → Conexus (Norway) |
+| 10/2013 – 09/2014 | Fullstack Developer | F2 Asia (VNYI) |
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Professional Projects
+
+**🗂️ FUJIFILM IWpro — Capture/Automation** *(04/2026 – Present)*
+> Enterprise document workflow automation for FUJIFILM Business Innovation. Orchestrates 50+ microservices for OCR, form classification, format conversion, and cloud storage integration (Teams). Features a rule editor UI for multi-step processing pipelines.
+> `Node.js` `AWS Lambda` `SQS` `SNS` `DynamoDB` `jQuery` `GitHub Copilot`
+> 🔗 [Product Page](https://www.fujifilm.com/fbvn/en/products/software/document-management/)
+
+**🌿 EcoAssist-Enterprise-Light — Global Web Client** *(01/2026 – 03/2026)*
+> ESG & Carbon Accounting Platform for Hitachi Solutions (Australian market). Engineered a data pipeline converting raw utility metrics into carbon equivalents (tCO2). Developed inventory logic for carbon credit lifecycles and automated Scope 1/2 compliance reporting.
+> `Vue.js 3` `PrimeVue` `Vite` `Vitest` `TypeScript` `GitHub Copilot`
+> 🔗 [Product Page](https://www.hitachi-solutions-create.co.jp/solution/ecoassist_enterprise_light/)
+
+**📊 Conexus Elevate** *(10/2014 – 12/2025)*
+> A child welfare follow-up platform for kindergartens and schools in Norway. Modernized the full stack (Vue.js, .NET Core, Pinia, BFF/JWT), migrated on-premise infrastructure to Azure Cloud, and developed a FIDO biometric authentication POC.
+> `Vue.js` `.NET Core` `Azure` `JWT` `FIDO` `Vite` `Vuetify` `GitHub Copilot`
+> 🔗 [Product Page](https://www.conexus.net/elevate)
+
+**🎓 OPAL 2.0 — CSL Module** *(10/2019 – 04/2022)*
+> Ministry of Education Singapore's digital professional learning platform. Led a Scrum team on the Collaborative & Social Learning module, improving reliability and resolving performance issues at scale.
+> `PHP` `Yii` `Docker` `AWS` `MySQL` `Elasticsearch` `Redis`
+> 🔗 [Platform](https://academyofsingaporeteachers.moe.edu.sg/professional-learning/opal/)
+
+---
+
+### 🌱 Personal Projects
+
+**🍃 LeafWise** *(05/2025 – Present)*
+> AI-powered plant care management system. Diagnoses plant health with AI, generates care plans, tracks plant growth, and manages tasks through an intuitive calendar. Built ~80% with Firebase Studio prompt engineering.
+> `Next.js` `TypeScript` `Genkit` `Tailwind CSS` `AWS`
+> 🔗 [Live](https://leafwise.nguyenviettung.id.vn) · [Repo](https://github.com/nguyenviettung7691/leafwise)
+
+**🐟 Koi Kingdom** *(10/2023 – Present)*
+> An interactive browser game where you create, manage, and evolve a lively aquarium of unique fish. Manage resources, respond to events, and keep your aquatic friends happy!
+> `Vue.js` `Vite` `Tailwind CSS`
+> 🔗 [Live](https://koi-kingdom.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/koi-kingdom)
+
+---
+
+## 🏆 Certifications & Awards
+
+| Date | Credential | Issuer |
+|---|---|---|
+| 03/2026 | 🥇 Certified Senior JavaScript Developer | Certificates.dev |
+| 10/2025 | 🥇 Certified Senior Vue.js Developer | Certificates.dev |
+| 03/2023 | ☁️ Microsoft Certified: Azure Fundamentals | Microsoft |
+| 04/2022 | ☁️ AWS Certified Cloud Practitioner (CLF-C01) | Amazon Web Services |
+| 02/2022 | 🌐 EF SET English C2 Proficient (79/100) | EF Standard English Test |
+| 12/2024 | 🏅 Orient Software Loyalty Award (10+ years) | Orient Software |
+| 03/2023 | 🏅 Conexus Service Award (5+ years) | Conexus |
 
 ---
 
@@ -108,10 +212,10 @@ fun_fact: "I debug with coffee ☕ and ship with enthusiasm 🚀"
 
 ## 🌱 What I'm Up To
 
-- 🔭 **Currently working on:** Building robust full-stack applications
-- 🌱 **Currently learning:** Cloud-native development & AI/ML workflows
-- 👯 **Looking to collaborate on:** Open-source projects that solve real problems
-- 💬 **Ask me about:** Web development, system design, or anything tech!
+- 🔭 **Currently working on:** FUJIFILM IWpro enterprise document automation (AWS Lambda, SQS, SNS) + LeafWise personal AI plant care app
+- 🌱 **Currently learning:** Cloud-native architecture, AI/ML integration with Genkit & Firebase Studio
+- 💬 **Ask me about:** Vue.js architecture, AWS serverless, Azure DevOps, BFF/JWT auth patterns, ESG/Carbon accounting, PropTech
+- 🤝 **Open to:** Consulting, collaboration on enterprise or open-source products
 - ⚡ **Fun fact:** I believe the best code reads like a well-written story
 
 ---
@@ -121,8 +225,8 @@ fun_fact: "I debug with coffee ☕ and ship with enthusiasm 🚀"
 <div align="center">
 
   [![GitHub](https://img.shields.io/badge/GitHub-nguyenviettung7691-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyenviettung7691)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyenviettung7691)
-  [![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenviettung7691@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-viet-tung/)
+  [![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvtung.harry@gmail.com)
 
 </div>
 
