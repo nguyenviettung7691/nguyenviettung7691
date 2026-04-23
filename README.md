@@ -23,14 +23,12 @@ specializations:
   - Vue.js architecture & modern front-end toolchains
   - BFF patterns & secure authentication (JWT, FIDO)
   - AWS & Azure cloud-native infrastructure
-  - ESG / Carbon Accounting & PropTech platforms
 currently_working_on:
   - FUJIFILM IWpro — enterprise document workflow automation (AWS Lambda, SQS, SNS)
   - LeafWise — AI-powered plant care app (Next.js, Firebase Studio, Genkit)
 languages:
   - English: C2 Proficient (EF SET 79/100)
   - Japanese: Basic
-fun_fact: "I believe the best code reads like a well-written story 📖"
 ```
 
 ---
@@ -116,22 +114,6 @@ fun_fact: "I believe the best code reads like a well-written story 📖"
 
 ---
 
-## 💼 Work Experience
-
-| Period | Role | Company |
-|---|---|---|
-| 01/2026 – Present | **Senior IT Consulting & Implementation** | Hitachi Digital Services |
-| 04/2023 – 12/2025 | Senior Software Engineer | Orient Software → Conexus (Norway) |
-| 09/2022 – 03/2023 | DevOps Engineer | Orient Software → Conexus (Norway) |
-| 05/2022 – 08/2022 | Senior Frontend Developer | Orient Software → Conexus (Norway) |
-| 09/2020 – 04/2022 | Lead Software Engineer | Orient Software → MOE Singapore |
-| 10/2019 – 09/2020 | Lead Software Engineer | Conexus → MOE Singapore |
-| 01/2018 – 10/2019 | Frontend Developer | Conexus |
-| 10/2014 – 01/2018 | Frontend Developer | Orient Software → Conexus (Norway) |
-| 10/2013 – 09/2014 | Fullstack Developer | F2 Asia (VNYI) |
-
----
-
 ## 🚀 Featured Projects
 
 ### 🏢 Professional Projects
@@ -140,11 +122,6 @@ fun_fact: "I believe the best code reads like a well-written story 📖"
 > Enterprise document workflow automation for FUJIFILM Business Innovation. Orchestrates 50+ microservices for OCR, form classification, format conversion, and cloud storage integration (Teams). Features a rule editor UI for multi-step processing pipelines.
 > `Node.js` `AWS Lambda` `SQS` `SNS` `DynamoDB` `jQuery` `GitHub Copilot`
 > 🔗 [Product Page](https://www.fujifilm.com/fbvn/en/products/software/document-management/)
-
-**🌿 EcoAssist-Enterprise-Light — Global Web Client** *(01/2026 – 03/2026)*
-> ESG & Carbon Accounting Platform for Hitachi Solutions (Australian market). Engineered a data pipeline converting raw utility metrics into carbon equivalents (tCO2). Developed inventory logic for carbon credit lifecycles and automated Scope 1/2 compliance reporting.
-> `Vue.js 3` `PrimeVue` `Vite` `Vitest` `TypeScript` `GitHub Copilot`
-> 🔗 [Product Page](https://www.hitachi-solutions-create.co.jp/solution/ecoassist_enterprise_light/)
 
 **📊 Conexus Elevate** *(10/2014 – 12/2025)*
 > A child welfare follow-up platform for kindergartens and schools in Norway. Modernized the full stack (Vue.js, .NET Core, Pinia, BFF/JWT), migrated on-premise infrastructure to Azure Cloud, and developed a FIDO biometric authentication POC.
@@ -190,7 +167,7 @@ fun_fact: "I believe the best code reads like a well-written story 📖"
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenviettung7691&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenviettung7691&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenviettung7691&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 
@@ -204,7 +181,7 @@ fun_fact: "I believe the best code reads like a well-written story 📖"
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=nguyenviettung7691&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=nguyenviettung7691&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="100%" />
 
 </div>
 
@@ -213,10 +190,9 @@ fun_fact: "I believe the best code reads like a well-written story 📖"
 ## 🌱 What I'm Up To
 
 - 🔭 **Currently working on:** FUJIFILM IWpro enterprise document automation (AWS Lambda, SQS, SNS) + LeafWise personal AI plant care app
-- 🌱 **Currently learning:** Cloud-native architecture, AI/ML integration with Genkit & Firebase Studio
-- 💬 **Ask me about:** Vue.js architecture, AWS serverless, Azure DevOps, BFF/JWT auth patterns, ESG/Carbon accounting, PropTech
+- 🌱 **Currently learning:** Cloud certification, Cloud-native architecture, AI/ML integration with Genkit & Firebase Studio
+- 💬 **Ask me about:** Vue.js architecture, AWS serverless, Azure DevOps, BFF/JWT auth patterns
 - 🤝 **Open to:** Consulting, collaboration on enterprise or open-source products
-- ⚡ **Fun fact:** I believe the best code reads like a well-written story
 
 ---
 
