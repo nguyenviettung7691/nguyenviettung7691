@@ -153,13 +153,11 @@ languages:
 
 | Date | Credential | Issuer |
 |---|---|---|
-| 03/2026 | 🥇 Certified Senior JavaScript Developer | Certificates.dev |
-| 10/2025 | 🥇 Certified Senior Vue.js Developer | Certificates.dev |
-| 03/2023 | ☁️ Microsoft Certified: Azure Fundamentals | Microsoft |
-| 04/2022 | ☁️ AWS Certified Cloud Practitioner (CLF-C01) | Amazon Web Services |
-| 02/2022 | 🌐 EF SET English C2 Proficient (79/100) | EF Standard English Test |
-| 12/2024 | 🏅 Orient Software Loyalty Award (10+ years) | Orient Software |
-| 03/2023 | 🏅 Conexus Service Award (5+ years) | Conexus |
+| 03/2026 | [![JavaScript Senior Certificate](https://img.shields.io/badge/JavaScript_Certified-Senior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)](https://certificates.dev/javascript/certificates/a14392fa-86d6-4a2e-9154-32ccedf0f9af) | Certificates.dev |
+| 10/2025 | [![Vue.js Senior Certificate](https://img.shields.io/badge/Official_Vue.js_Certified-Senior-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=065F46)](https://certificates.dev/vuejs/certificates/a035486e-e918-44ac-98fd-d6ef9a74bbc4) | Certificates.dev |
+| 03/2023 | [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/nvtung/6A08F9787FA7B1F4?sharingId=5F11ACC34CA524D) | Microsoft |
+| 04/2022 | [AWS Certified Cloud Practitioner (CLF-C01)](https://www.credly.com/badges/b50d2d25-4689-4489-bc3b-440e985a5128/public_url) | Amazon Web Services |
+| 02/2022 | [EF SET English C2 Proficient (79/100)](https://cert.efset.org/Yr64ri) | EF Standard English Test |
 
 ---
 
@@ -181,7 +179,7 @@ languages:
 
 <div align="center">
 
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=nguyenviettung7691&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=nguyenviettung7691&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="100%" />
 
 </div>
 
