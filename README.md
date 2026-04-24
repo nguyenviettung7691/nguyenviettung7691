@@ -14,7 +14,7 @@
 name: Nguyễn Việt Tùng (Tung Nguyen)
 location: Ho Chi Minh City, Vietnam 🇻🇳
 role: Senior Full-Stack Engineer & IT Consultant
-company: Hitachi Digital Services
+company: Hitachi Digital Services, Orient Software
 experience:
   - 10+ years in JavaScript-driven UI
   - 5+ years in full-stack & cloud-native delivery
@@ -28,7 +28,7 @@ currently_working_on:
   - LeafWise — AI-powered plant care app (Next.js, Firebase Studio, Genkit)
 languages:
   - English: C2 Proficient (EF SET 79/100)
-  - Japanese: Basic
+  - Japanese: Beginner (learning N5)
 ```
 
 ---
@@ -151,13 +151,13 @@ languages:
 
 ## 🏆 Certifications & Awards
 
-| Date | Credential | Issuer |
-|---|---|---|
-| 03/2026 | [![JavaScript Senior Certificate](https://img.shields.io/badge/JavaScript_Certified-Senior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)](https://certificates.dev/javascript/certificates/a14392fa-86d6-4a2e-9154-32ccedf0f9af) | Certificates.dev |
-| 10/2025 | [![Vue.js Senior Certificate](https://img.shields.io/badge/Official_Vue.js_Certified-Senior-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=065F46)](https://certificates.dev/vuejs/certificates/a035486e-e918-44ac-98fd-d6ef9a74bbc4) | Certificates.dev |
-| 03/2023 | [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/nvtung/6A08F9787FA7B1F4?sharingId=5F11ACC34CA524D) | Microsoft |
-| 04/2022 | [AWS Certified Cloud Practitioner (CLF-C01)](https://www.credly.com/badges/b50d2d25-4689-4489-bc3b-440e985a5128/public_url) | Amazon Web Services |
-| 02/2022 | [EF SET English C2 Proficient (79/100)](https://cert.efset.org/Yr64ri) | EF Standard English Test |
+| Date | Credential |
+|---|---|
+| 03/2026 | [![JavaScript Senior Certificate](https://img.shields.io/badge/JavaScript_Certified-Senior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)](https://certificates.dev/javascript/certificates/a14392fa-86d6-4a2e-9154-32ccedf0f9af) |
+| 10/2025 | [![Vue.js Senior Certificate](https://img.shields.io/badge/Official_Vue.js_Certified-Senior-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=065F46)](https://certificates.dev/vuejs/certificates/a035486e-e918-44ac-98fd-d6ef9a74bbc4) |
+| 03/2023 | [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/nvtung/6A08F9787FA7B1F4?sharingId=5F11ACC34CA524D) |
+| 04/2022 | [AWS Certified Cloud Practitioner (CLF-C01)](https://www.credly.com/badges/b50d2d25-4689-4489-bc3b-440e985a5128/public_url) |
+| 02/2022 | [EF SET English C2 Proficient (79/100)](https://cert.efset.org/Yr64ri) |
 
 ---
 
@@ -188,8 +188,8 @@ languages:
 ## 🌱 What I'm Up To
 
 - 🔭 **Currently working on:** FUJIFILM IWpro enterprise document automation (AWS Lambda, SQS, SNS) + LeafWise personal AI plant care app
-- 🌱 **Currently learning:** Cloud certification, Cloud-native architecture, AI/ML integration with Genkit & Firebase Studio
-- 💬 **Ask me about:** Vue.js architecture, AWS serverless, Azure DevOps, BFF/JWT auth patterns
+- 🌱 **Currently learning:** Cloud certification, Cloud-native architecture, AI/ML integration with Genkit, Japanese N5
+- 💬 **Ask me about:** Vue.js architecture, AWS CI/CD, Azure network security, BFF/JWT auth patterns
 - 🤝 **Open to:** Consulting, collaboration on enterprise or open-source products
 
 ---
