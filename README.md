@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Nguyễn Việt Tùng (Tung Nguyen)
+name: Nguyễn Việt Tùng (Harry)
 location: Ho Chi Minh City, Vietnam 🇻🇳
 role: Senior Full-Stack Engineer & IT Consultant
 company: Hitachi Digital Services, Orient Software
