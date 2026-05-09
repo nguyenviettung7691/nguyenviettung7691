@@ -14,7 +14,6 @@
 name: Nguyễn Việt Tùng (Harry)
 location: Ho Chi Minh City, Vietnam 🇻🇳
 role: Senior Full-Stack Engineer & IT Consultant
-company: Hitachi Digital Services, Orient Software
 experience:
   - 10+ years in JavaScript-driven UI
   - 5+ years in full-stack & cloud-native delivery
@@ -24,8 +23,7 @@ specializations:
   - BFF patterns & secure authentication (JWT, FIDO)
   - AWS & Azure cloud-native infrastructure
 currently_working_on:
-  - FUJIFILM IWpro — enterprise document workflow automation (AWS Lambda, SQS, SNS)
-  - LeafWise — AI-powered plant care app (Next.js, Firebase Studio, Genkit)
+  - Azure Virtual Network Simulator
 languages:
   - English: C2 Proficient (EF SET 79/100)
   - Japanese: Beginner (learning N5)
@@ -187,7 +185,7 @@ languages:
 
 ## 🌱 What I'm Up To
 
-- 🔭 **Currently working on:** FUJIFILM IWpro enterprise document automation (AWS Lambda, SQS, SNS) + LeafWise personal AI plant care app
+- 🔭 **Currently working on:** Azure Virtual Network Simulator
 - 🌱 **Currently learning:** Cloud certification, Cloud-native architecture, AI/ML integration with Genkit, Japanese N5
 - 💬 **Ask me about:** Vue.js architecture, AWS CI/CD, Azure network security, BFF/JWT auth patterns
 - 🤝 **Open to:** Consulting, collaboration on enterprise or open-source products
