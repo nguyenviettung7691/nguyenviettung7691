@@ -112,9 +112,9 @@ languages:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Personal Projects
 
-**🍃 Azure Virtual Network Simulator** *(04/2026)*
+**🖧 Azure Virtual Network Simulator** *(04/2026)*
 > An interactive, browser-based topology designer and simulator for Azure Virtual Network architectures. Build, visualise, and validate Azure network diagrams using a drag-and-drop canvas, then challenge yourself with AI-generated networking tasks.
 > `Azure` `TypeScript` `MongoDB` `PrimeVue` `AWS`
 > 🔗 [Live](https://azure-vnet.nguyenviettung.id.vn) · [Repo](https://github.com/nguyenviettung7691/azure-virtual-network-simulator)
