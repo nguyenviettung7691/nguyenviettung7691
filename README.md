@@ -114,33 +114,17 @@ languages:
 
 ## 🚀 Featured Projects
 
-### 🏢 Professional Projects
+**🍃 Azure Virtual Network Simulator** *(04/2026)*
+> An interactive, browser-based topology designer and simulator for Azure Virtual Network architectures. Build, visualise, and validate Azure network diagrams using a drag-and-drop canvas, then challenge yourself with AI-generated networking tasks.
+> `Azure` `TypeScript` `MongoDB` `PrimeVue` `AWS`
+> 🔗 [Live](https://azure-vnet.nguyenviettung.id.vn) · [Repo](https://github.com/nguyenviettung7691/azure-virtual-network-simulator)
 
-**🗂️ FUJIFILM IWpro — Capture/Automation** *(04/2026 – Present)*
-> Enterprise document workflow automation for FUJIFILM Business Innovation. Orchestrates 50+ microservices for OCR, form classification, format conversion, and cloud storage integration (Teams). Features a rule editor UI for multi-step processing pipelines.
-> `Node.js` `AWS Lambda` `SQS` `SNS` `DynamoDB` `jQuery` `GitHub Copilot`
-> 🔗 [Product Page](https://www.fujifilm.com/fbvn/en/products/software/document-management/)
-
-**📊 Conexus Elevate** *(10/2014 – 12/2025)*
-> A child welfare follow-up platform for kindergartens and schools in Norway. Modernized the full stack (Vue.js, .NET Core, Pinia, BFF/JWT), migrated on-premise infrastructure to Azure Cloud, and developed a FIDO biometric authentication POC.
-> `Vue.js` `.NET Core` `Azure` `JWT` `FIDO` `Vite` `Vuetify` `GitHub Copilot`
-> 🔗 [Product Page](https://www.conexus.net/elevate)
-
-**🎓 OPAL 2.0 — CSL Module** *(10/2019 – 04/2022)*
-> Ministry of Education Singapore's digital professional learning platform. Led a Scrum team on the Collaborative & Social Learning module, improving reliability and resolving performance issues at scale.
-> `PHP` `Yii` `Docker` `AWS` `MySQL` `Elasticsearch` `Redis`
-> 🔗 [Platform](https://academyofsingaporeteachers.moe.edu.sg/professional-learning/opal/)
-
----
-
-### 🌱 Personal Projects
-
-**🍃 LeafWise** *(05/2025 – Present)*
+**🍃 LeafWise** *(05/2025)*
 > AI-powered plant care management system. Diagnoses plant health with AI, generates care plans, tracks plant growth, and manages tasks through an intuitive calendar. Built ~80% with Firebase Studio prompt engineering.
 > `Next.js` `TypeScript` `Genkit` `Tailwind CSS` `AWS`
 > 🔗 [Live](https://leafwise.nguyenviettung.id.vn) · [Repo](https://github.com/nguyenviettung7691/leafwise)
 
-**🐟 Koi Kingdom** *(10/2023 – Present)*
+**🐟 Koi Kingdom** *(10/2023)*
 > An interactive browser game where you create, manage, and evolve a lively aquarium of unique fish. Manage resources, respond to events, and keep your aquatic friends happy!
 > `Vue.js` `Vite` `Tailwind CSS`
 > 🔗 [Live](https://koi-kingdom.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/koi-kingdom)
