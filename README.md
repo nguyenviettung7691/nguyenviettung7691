@@ -119,6 +119,11 @@ languages:
 > `Azure` `TypeScript` `MongoDB` `PrimeVue` `AWS`
 > 🔗 [Live](https://azure-vnet.nguyenviettung.id.vn) · [Repo](https://github.com/nguyenviettung7691/azure-virtual-network-simulator)
 
+**📄 CV Static Website** *(02/2023)*
+> A static website for showcasing the CV, profile, skillsets, certifications, and portfolio. Built with VitePress for fast, modern documentation and personal branding.
+> `Vitepress`, `Vue`, `BunJS`, `SASS`, `Iconify`
+> 🔗 [Live](https://cv.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/cv-static-website)
+
 **🍃 LeafWise** *(05/2025)*
 > AI-powered plant care management system. Diagnoses plant health with AI, generates care plans, tracks plant growth, and manages tasks through an intuitive calendar. Built ~80% with Firebase Studio prompt engineering.
 > `Next.js` `TypeScript` `Genkit` `Tailwind CSS` `AWS`
@@ -128,6 +133,11 @@ languages:
 > An interactive browser game where you create, manage, and evolve a lively aquarium of unique fish. Manage resources, respond to events, and keep your aquatic friends happy!
 > `Vue.js` `Vite` `Tailwind CSS`
 > 🔗 [Live](https://koi-kingdom.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/koi-kingdom)
+
+**🧱 Azure Firewall Policy Optimizer** *(02/2023)*
+> A web-based tool to analyze and optimize Azure Firewall Policy rules from ARM template JSON. Merge similar rules, reduce redundancy, and simplify your Azure Firewall configurations.
+> `Azure`
+> 🔗 [Live](https://azure-firewall.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/azure-firewall-policy-optimizer)
 
 ---
 
