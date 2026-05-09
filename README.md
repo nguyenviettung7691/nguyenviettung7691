@@ -119,7 +119,7 @@ languages:
 > `Azure` `TypeScript` `MongoDB` `PrimeVue` `AWS`
 > 🔗 [Live](https://azure-vnet.nguyenviettung.id.vn) · [Repo](https://github.com/nguyenviettung7691/azure-virtual-network-simulator)
 
-**📄 CV Static Website** *(02/2023)*
+**📄 CV Static Website** *(07/2025)*
 > A static website for showcasing the CV, profile, skillsets, certifications, and portfolio. Built with VitePress for fast, modern documentation and personal branding.
 > `Vitepress`, `Vue`, `BunJS`, `SASS`, `Iconify`
 > 🔗 [Live](https://cv.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/cv-static-website)
