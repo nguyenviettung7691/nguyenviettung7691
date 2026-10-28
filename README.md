@@ -22,8 +22,6 @@ specializations:
   - Vue.js architecture & modern front-end toolchains
   - BFF patterns & secure authentication (JWT, FIDO)
   - AWS & Azure cloud-native infrastructure
-currently_working_on:
-  - Azure Virtual Network Simulator
 languages:
   - English: C2 Proficient (EF SET 79/100)
   - Japanese: Beginner (learning N5)
@@ -114,27 +112,42 @@ languages:
 
 ## 🚀 Personal Projects
 
-**🖧 Azure Virtual Network Simulator** *(04/2026)*
+**⌨️ AliceType**
+> A lightweight, frontend-only web application designed specifically for desktop users to practice typing on an Alice (split-ergonomic) keyboard layout.
+> `Svelte` `Offline`
+> 🔗 [Live](http://alice-type.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/alice-type)
+
+**🚗 Lái Xe Nhàn**
+> Ứng dụng PWA học kỹ năng lái xe thực tế với 23 thẻ học, hỗ trợ offline-first, đọc to giọng nói, chế độ ban đêm và khẩu quyết an toàn cho lái xe.
+> `Vue` `Pinia` `PWA` `Supabase`
+> 🔗 [Live](https://lai-xe-nhan.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/lai-xe-nhan)
+
+**🖧 Azure Virtual Network Simulator**
 > An interactive, browser-based topology designer and simulator for Azure Virtual Network architectures. Build, visualise, and validate Azure network diagrams using a drag-and-drop canvas, then challenge yourself with AI-generated networking tasks.
 > `Azure` `TypeScript` `MongoDB` `PrimeVue` `AWS`
 > 🔗 [Live](https://azure-vnet.nguyenviettung.id.vn) · [Repo](https://github.com/nguyenviettung7691/azure-virtual-network-simulator)
 
-**📄 CV Static Website** *(07/2025)*
-> A static website for showcasing the CV, profile, skillsets, certifications, and portfolio. Built with VitePress for fast, modern documentation and personal branding.
-> `Vitepress`, `Vue`, `BunJS`, `SASS`, `Iconify`
-> 🔗 [Live](https://cv.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/cv-static-website)
+**📝 AZ-104 Exam Simulator**
+> Browser-based AZ-104 practice app with a strict 53-question exam engine, local question-bank management, and cross-run trend tracking.
+> `Azure` `TypeScript` `React` `AZ-104`
+> 🔗 [Live](https://az104.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/az-104-exam-simulator)
 
-**🍃 LeafWise** *(05/2025)*
+**📈 Candlestick**
+> Web Application for a Vietnam Stock Market (VNINDEX) Indicator Tracking Dashboard. The architecture utilizes a "Hydrate-then-Stream" pattern.
+> `AWS` `Python` `NextJS`
+> 🔗 [Repo](https://github.com/nguyenviettung7691/candlestick)
+
+**🍃 LeafWise**
 > AI-powered plant care management system. Diagnoses plant health with AI, generates care plans, tracks plant growth, and manages tasks through an intuitive calendar. Built ~80% with Firebase Studio prompt engineering.
 > `Next.js` `TypeScript` `Genkit` `Tailwind CSS` `AWS`
 > 🔗 [Live](https://leafwise.nguyenviettung.id.vn) · [Repo](https://github.com/nguyenviettung7691/leafwise)
 
-**🐟 Koi Kingdom** *(10/2023)*
+**🐟 Koi Kingdom**
 > An interactive browser game where you create, manage, and evolve a lively aquarium of unique fish. Manage resources, respond to events, and keep your aquatic friends happy!
 > `Vue.js` `Vite` `Tailwind CSS`
 > 🔗 [Live](https://koi-kingdom.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/koi-kingdom)
 
-**🧱 Azure Firewall Policy Optimizer** *(02/2023)*
+**🧱 Azure Firewall Policy Optimizer**
 > A web-based tool to analyze and optimize Azure Firewall Policy rules from ARM template JSON. Merge similar rules, reduce redundancy, and simplify your Azure Firewall configurations.
 > `Azure`
 > 🔗 [Live](https://azure-firewall.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/azure-firewall-policy-optimizer)
@@ -145,9 +158,9 @@ languages:
 
 | Date | Credential |
 |---|---|
+| 06/2026 | [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/nvtung/C1C5BBCDD21770C3?sharingId=5F11ACC34CA524D) |
 | 03/2026 | [![JavaScript Senior Certificate](https://img.shields.io/badge/JavaScript_Certified-Senior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)](https://certificates.dev/javascript/certificates/a14392fa-86d6-4a2e-9154-32ccedf0f9af) |
 | 10/2025 | [![Vue.js Senior Certificate](https://img.shields.io/badge/Official_Vue.js_Certified-Senior-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=065F46)](https://certificates.dev/vuejs/certificates/a035486e-e918-44ac-98fd-d6ef9a74bbc4) |
-| 03/2023 | [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/nvtung/6A08F9787FA7B1F4?sharingId=5F11ACC34CA524D) |
 | 04/2022 | [AWS Certified Cloud Practitioner (CLF-C01)](https://www.credly.com/badges/b50d2d25-4689-4489-bc3b-440e985a5128/public_url) |
 | 02/2022 | [EF SET English C2 Proficient (79/100)](https://cert.efset.org/Yr64ri) |
 
@@ -179,8 +192,8 @@ languages:
 
 ## 🌱 What I'm Up To
 
-- 🔭 **Currently working on:** Azure Virtual Network Simulator
-- 🌱 **Currently learning:** Cloud certification, Cloud-native architecture, AI/ML integration with Genkit, Japanese N5
+- 🔭 **Currently working on:** Alice-Type (Alice layout keyboard Practice Typing App)
+- 🌱 **Currently learning:** Development certification, Cloud-native architecture, AI-DLC integration with Claude Code + Superpowers, Japanese N5
 - 💬 **Ask me about:** Vue.js architecture, AWS CI/CD, Azure network security, BFF/JWT auth patterns
 - 🤝 **Open to:** Consulting, collaboration on enterprise or open-source products
 
