@@ -132,6 +132,11 @@ languages:
 > `Azure` `TypeScript` `React` `AZ-104`
 > 🔗 [Live](https://az104.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/az-104-exam-simulator)
 
+**🧱 Azure Firewall Policy Optimizer**
+> A web-based tool to analyze and optimize Azure Firewall Policy rules from ARM template JSON. Merge similar rules, reduce redundancy, and simplify your Azure Firewall configurations.
+> `Azure`
+> 🔗 [Live](https://azure-firewall.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/azure-firewall-policy-optimizer)
+
 **📈 Candlestick**
 > Web Application for a Vietnam Stock Market (VNINDEX) Indicator Tracking Dashboard. The architecture utilizes a "Hydrate-then-Stream" pattern.
 > `AWS` `Python` `NextJS`
@@ -146,11 +151,6 @@ languages:
 > An interactive browser game where you create, manage, and evolve a lively aquarium of unique fish. Manage resources, respond to events, and keep your aquatic friends happy!
 > `Vue.js` `Vite` `Tailwind CSS`
 > 🔗 [Live](https://koi-kingdom.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/koi-kingdom)
-
-**🧱 Azure Firewall Policy Optimizer**
-> A web-based tool to analyze and optimize Azure Firewall Policy rules from ARM template JSON. Merge similar rules, reduce redundancy, and simplify your Azure Firewall configurations.
-> `Azure`
-> 🔗 [Live](https://azure-firewall.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/azure-firewall-policy-optimizer)
 
 ---
 
@@ -182,18 +182,12 @@ languages:
 
 </div>
 
-<div align="center">
-
-  <img src="https://gh-trophy.cdnsoft.net/?username=nguyenviettung7691&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="GitHub Trophies" width="100%" />
-
-</div>
-
 ---
 
 ## 🌱 What I'm Up To
 
 - 🔭 **Currently working on:** Alice-Type (Alice layout keyboard Practice Typing App)
-- 🌱 **Currently learning:** Development certification, Cloud-native architecture, AI-DLC integration with Claude Code + Superpowers, Japanese N5
+- 📝 **Currently learning:** Development certification, Cloud-native architecture, AI-DLC integration with Claude Code + Superpowers, Japanese N5
 - 💬 **Ask me about:** Vue.js architecture, AWS CI/CD, Azure network security, BFF/JWT auth patterns
 - 🤝 **Open to:** Consulting, collaboration on enterprise or open-source products
 
@@ -216,7 +210,5 @@ languages:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" width="100%" />
 
   ![Profile Views](https://komarev.com/ghpvc/?username=nguyenviettung7691&label=Profile%20Views&color=58A6FF&style=flat)
-
-  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 </div>
