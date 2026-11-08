@@ -8,6 +8,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenviettung7691&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600" />
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 ```yaml
@@ -169,24 +179,6 @@ languages:
 | 10/2025 | [![Vue.js Senior Certificate](https://img.shields.io/badge/Official_Vue.js_Certified-Senior-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=065F46)](https://certificates.dev/vuejs/certificates/a035486e-e918-44ac-98fd-d6ef9a74bbc4) |
 | 04/2022 | [AWS Certified Cloud Practitioner (CLF-C01)](https://www.credly.com/badges/b50d2d25-4689-4489-bc3b-440e985a5128/public_url) |
 | 02/2022 | [EF SET English C2 Proficient (79/100)](https://cert.efset.org/Yr64ri) |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenviettung7691&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenviettung7691&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenviettung7691&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600" />
-
-</div>
 
 ---
 
