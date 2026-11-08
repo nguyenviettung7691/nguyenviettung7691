@@ -112,6 +112,11 @@ languages:
 
 ## 🚀 Personal Projects
 
+**🅿️ Park-Core**
+> Park-Core is a browser-based 3D parking simulator prototype for practicing low-speed maneuvers and spatial awareness.
+> `threejs` `cannon-es` `PWA`
+> 🔗 [Live](http://park-core.nguyenviettung.id.vn/) · [Repo](https://github.com/nguyenviettung7691/park-core)
+
 **⌨️ AliceType**
 > A lightweight, frontend-only web application designed specifically for desktop users to practice typing on an Alice (split-ergonomic) keyboard layout.
 > `Svelte` `Offline`
@@ -158,6 +163,7 @@ languages:
 
 | Date | Credential |
 |---|---|
+| 11/2026 | [Claude Certified Developer - Foundations](https://www.credly.com/badges/8ee7fc55-e289-4861-ab44-9ca6b2737c6d/public_url) |
 | 06/2026 | [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/nvtung/C1C5BBCDD21770C3?sharingId=5F11ACC34CA524D) |
 | 03/2026 | [![JavaScript Senior Certificate](https://img.shields.io/badge/JavaScript_Certified-Senior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)](https://certificates.dev/javascript/certificates/a14392fa-86d6-4a2e-9154-32ccedf0f9af) |
 | 10/2025 | [![Vue.js Senior Certificate](https://img.shields.io/badge/Official_Vue.js_Certified-Senior-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=065F46)](https://certificates.dev/vuejs/certificates/a035486e-e918-44ac-98fd-d6ef9a74bbc4) |
@@ -186,7 +192,7 @@ languages:
 
 ## 🌱 What I'm Up To
 
-- 🔭 **Currently working on:** Alice-Type (Alice layout keyboard Practice Typing App)
+- 🔭 **Currently working on:** Park-Core (browser-based 3D parking simulator)
 - 📝 **Currently learning:** Development certification, Cloud-native architecture, AI-DLC integration with Claude Code + Superpowers, Japanese N5
 - 💬 **Ask me about:** Vue.js architecture, AWS CI/CD, Azure network security, BFF/JWT auth patterns
 - 🤝 **Open to:** Consulting, collaboration on enterprise or open-source products
