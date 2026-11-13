@@ -14,6 +14,10 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenviettung7691&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600" />
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=nguyenviettung7691&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+
 </div>
 
 ---
@@ -198,15 +202,5 @@ languages:
   [![GitHub](https://img.shields.io/badge/GitHub-nguyenviettung7691-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyenviettung7691)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-viet-tung/)
   [![Email](https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvtung.harry@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" width="100%" />
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=nguyenviettung7691&label=Profile%20Views&color=58A6FF&style=flat)
 
 </div>
