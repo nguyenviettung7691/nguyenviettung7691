@@ -180,7 +180,7 @@ languages:
 
 | Date | Certified |
 |---|---|
-| 11/2026 | [![Claude Certified Architect - Foundations](https://img.shields.io/badge/Claude_Certified_Architect-Foundations-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=3B2016)](https://www.credly.com/badges/93f6512c-0387-4d41-8067-cb6bbe49adc2/public_url) |
+| 11/2026 | [![Claude Certified Architect - Professional](https://img.shields.io/badge/Claude_Certified_Architect-Professional-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=3B2016)](https://www.credly.com/badges/93f6512c-0387-4d41-8067-cb6bbe49adc2/public_url) |
 | 06/2026 | [![Microsoft Certified: Azure Administrator Associate](https://img.shields.io/badge/Microsoft_Azure_Certified-Administrator_Associate-0078D4?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTUgMTlMMTAuNSA0aDRMOSAxOUg1em02IDBsMy4zLTkgNS4yIDlIMTEiLz48L3N2Zz4=&logoColor=white&labelColor=003366)](https://learn.microsoft.com/api/credentials/share/en-us/nvtung/C1C5BBCDD21770C3?sharingId=5F11ACC34CA524D) |
 | 03/2026 | [![JavaScript Senior Certificate](https://img.shields.io/badge/JavaScript_Certified-Senior-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=4A3800)](https://certificates.dev/javascript/certificates/a14392fa-86d6-4a2e-9154-32ccedf0f9af) |
 | 10/2025 | [![Vue.js Senior Certificate](https://img.shields.io/badge/Official_Vue.js_Certified-Senior-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=065F46)](https://certificates.dev/vuejs/certificates/a035486e-e918-44ac-98fd-d6ef9a74bbc4) |
